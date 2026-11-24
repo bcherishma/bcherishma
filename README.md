@@ -6,15 +6,15 @@
 
 <h3 align="left">About me:</h3>
 
-- 🎓 Incoming M.Sc. Artificial Intelligence and Intelligent Systems student at the University of Bremen
+- 🎓 M.Sc. Artificial Intelligence and Intelligent Systems student at the University of Bremen
 - 🧪 B.E. in Computer Science (AI & ML), CMR Institute of Technology, Bangalore, CGPA 9.03
-- 📄 Co-author of a publication at ICISSC-2025 (Springer) `[add paper title and link, check your author position]`
-- 🔬 Experience: LLM/RLHF work at Ethara AI, internship at DRDO
+- 📄 Co-author of a publication at ICISSC-2025 (Springer) 
+- 🔬 Experience: LLM/RLHF work at Ethara AI , SDE at ProbePlus and Internship at DRDO
 
 <h3 align="left">Featured projects:</h3>
 
-- **[Verda](https://github.com/bcherishma/Verda)**: a full-stack wellness web app I'm building from scratch with React, Vite, TypeScript, Tailwind and Supabase. *In active development.* Working so far: email/password sign-up and login, profile setup, and a water tracker.
-- **[ARIA](link-to-repo)**: multi-agent system for vehicle anomaly detection, built with LangChain, LangGraph, MCP, PyTorch and FastAPI. *In progress.*
+- **[Verda]**: a cycle-adaptive wellness app where your daily habits grow a living ocean garden. Built from scratch with React, TypeScript, Tailwind and Supabase. *In active development* .
+- **[ARIA]**: multi-agent system for vehicle anomaly detection, built with LangChain, LangGraph, MCP, PyTorch and FastAPI. *In progress.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
